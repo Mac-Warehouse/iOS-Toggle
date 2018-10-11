@@ -1,0 +1,4 @@
+d7d9d8=Silver
+e1ccb5=Gold
+b4b5b9=Space Gray
+b9b7ba=Space Gray
